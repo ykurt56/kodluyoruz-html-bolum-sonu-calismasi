@@ -15,6 +15,6 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Lunix için:
 ```  
-cd kodluyoruzilkrepo
+cd kodluyoruz-html-bolum-sonu-calismasi
 code .
 ```
